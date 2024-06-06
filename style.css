@@ -4,4 +4,10 @@ ol {
   list-style-position: inside;
 }
 
+#id-selector-demo{color:green;}
+
+p[value]{color: blue;}
+
+*{text-align: center;}
+
 /* Write your CSS below, don't change the rules above. */
